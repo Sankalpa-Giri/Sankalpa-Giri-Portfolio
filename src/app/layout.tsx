@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     "Sankalpa Giri",
   ],
   verification: {
-    google: "ZKqeSxmZ1ce2sWAireOj0wEldweULN85CFS2yI3l4",
+    google: "L-ZKqeSxmZ1ce2sWAireOj0wEldweULN85CFS2yI3l4",
   },
 };
 
