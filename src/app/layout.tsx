@@ -4,7 +4,7 @@ import { Providers } from "@/components/theme-provider";
 import Navbar from "@/components/layout/Navbar";
 
 export const metadata: Metadata = {
-  title: "Sankalpa Giri",
+  title: "Sankalpa Giri | AI & ML Developer",
   description:
     "AI/ML Developer, Automation Engineer and Computer Science Student",
   keywords: [
@@ -15,6 +15,9 @@ export const metadata: Metadata = {
     "Portfolio",
     "Sankalpa Giri",
   ],
+  verification: {
+    google: "ZKqeSxmZ1ce2sWAireOj0wEldweULN85CFS2yI3l4",
+  },
 };
 
 export default function RootLayout({
